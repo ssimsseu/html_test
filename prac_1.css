@@ -8,15 +8,18 @@
   /* background-color: coral; */
   background-color: coral;
   border-radius: 10px;
+  
+    /* TODO */
+    /* 포지션 구현하기 */
 
-  position: relative;
+  /* position: relative;
   
   top: 100px;
+  left: 600px; */
+
+  position: absolute;
+  top: 400px;
   left: 600px;
-
-
-  /* TODO */
-  /* 포지션 구현하기 */
 }
 .goal {
   width: 300px;
